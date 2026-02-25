@@ -38,5 +38,7 @@ Enabled stakeholders to track sales trends, identify revenue drivers, and optimi
 
 Provided actionable insights to improve profitability and cost efficiency.
 ![WhatsApp Image 2026-02-26 at 12 04 32 AM](https://github.com/user-attachments/assets/534c26e4-0a9f-4db0-b136-ee695ab89cb3)
+<img width="1382" height="916" alt="image" src="https://github.com/user-attachments/assets/b74eee78-e165-4d7f-8ad6-73ac6a515711" />
+
 
 Enhanced decision-making with an interactive, easy-to-use dashboard.
