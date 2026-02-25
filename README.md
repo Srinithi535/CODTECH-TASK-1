@@ -1,7 +1,7 @@
 # CODTECH-TASK-1
 **Sales Performance Dashboard using Power BI
 **
-Name: SRINITHI M Company: CODTECH IT SOLUTIONS ID: CT08DS1633 Domain: POWER BI Duration 3rd January 2026 to 28 Febrauray 2026 
+Name: SRINITHI M Company: CODTECH IT SOLUTIONS ID:  CTISO658 Domain: POWER BI Duration 3rd January 2026 to 28 Febrauray 2026 
 
 
 **Project Description**
