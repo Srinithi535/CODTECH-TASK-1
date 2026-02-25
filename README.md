@@ -36,22 +36,7 @@ Data Visualization Best Practices – Applied to ensure clarity and actionable i
 **
 Enabled stakeholders to track sales trends, identify revenue drivers, and optimize category strategies.
 
-![WhatsApp Image 2026-02-26 at 12 04 32 AM](https://github.com/user-attachments/assets/534c26e4-0a9f-4db0-b136-ee695ab89cb3)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Provided actionable insights to improve profitability and cost efficiency.
+![WhatsApp Image 2026-02-26 at 12 04 32 AM](https://github.com/user-attachments/assets/534c26e4-0a9f-4db0-b136-ee695ab89cb3)
 
 Enhanced decision-making with an interactive, easy-to-use dashboard.
