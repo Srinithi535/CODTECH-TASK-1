@@ -1,13 +1,13 @@
 # CODTECH-TASK-1
-Sales Performance Dashboard using Power BI
-Sales Performance Dashboard
+**Sales Performance Dashboard using Power BI
+**
 
-Project Description
+**Project Description**
 
 Developed an interactive Power BI dashboard to provide comprehensive insights into sales performance across multiple dimensions. The dashboard enables data-driven decision-making by visualizing key metrics such as sales, profit, costs, discounts, and category performance.
 
-Key Features
-
+**Key Features
+**
 Year-wise Sales Trend: Analyze growth patterns and identify peak sales periods.
 
 Category-wise Performance: Compare product categories to spot top-performing and underperforming segments.
@@ -20,7 +20,7 @@ Interactive Filters & Slicers: Customize views by region, category, and time per
 
 Dynamic Visualizations: Includes line charts, bar charts, KPI indicators, and card visuals for intuitive understanding.
 
-Tools & Technologies Used
+**Tools & Technologies Used**
 
 Power BI Desktop – For data modeling, report creation, and visualization.
 
@@ -30,8 +30,8 @@ DAX (Data Analysis Expressions) – For advanced calculations and metrics.
 
 Data Visualization Best Practices – Applied to ensure clarity and actionable insights.
 
-Outcome / Impact
-
+**Outcome / Impact
+**
 Enabled stakeholders to track sales trends, identify revenue drivers, and optimize category strategies.
 
 Provided actionable insights to improve profitability and cost efficiency.
